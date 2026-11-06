@@ -1,0 +1,14 @@
+{
+  "name": "Qolo.Foundation.Tests",
+  "rootNamespace": "Qolo.Foundation.Tests",
+  "references": ["Qolo.Foundation"],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

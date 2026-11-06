@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "contentStatus": "starter-tuning-not-playtested",
+  "match": {
+    "periodMinutes": 5,
+    "periodCount": 2,
+    "fixedStepSeconds": 0.02,
+    "startingScore": 0
+  },
+  "ball": {
+    "gravityMetersPerSecondSquared": -9.81,
+    "linearDragPerSecond": 0.08,
+    "groundRestitution": 0.42,
+    "groundFriction": 0.22
+  },
+  "teams": ["team_embervale", "team_stonebridge"],
+  "notes": [
+    "All values are provisional placeholders, not validated gameplay balance.",
+    "This file does not yet drive a running Unity scene."
+  ]
+}

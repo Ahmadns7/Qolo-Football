@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "contentStatus": "fictional-sample",
+  "teams": [
+    {
+      "id": "team_embervale",
+      "name": "Embervale Athletic",
+      "shortName": "EVA",
+      "colors": { "primary": "#E76F3C", "secondary": "#17212B" },
+      "roster": [
+        { "id": "eva_001", "name": "Niko Adebayo", "role": "GK", "rating": 62 },
+        { "id": "eva_009", "name": "Tari Okafor", "role": "FW", "rating": 68 },
+        { "id": "eva_010", "name": "Sami Bello", "role": "MF", "rating": 65 }
+      ]
+    },
+    {
+      "id": "team_stonebridge",
+      "name": "Stonebridge Rovers",
+      "shortName": "SBR",
+      "colors": { "primary": "#69A88E", "secondary": "#18262B" },
+      "roster": [
+        { "id": "sbr_001", "name": "Kola Mensah", "role": "GK", "rating": 63 },
+        { "id": "sbr_009", "name": "Tomi Adeyemi", "role": "FW", "rating": 67 },
+        { "id": "sbr_010", "name": "Ife Nwosu", "role": "MF", "rating": 66 }
+      ]
+    }
+  ]
+}
